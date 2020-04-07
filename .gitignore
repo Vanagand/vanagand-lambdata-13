@@ -1,0 +1,6 @@
+# .gitignore file
+
+# ignore some artifacts from the package distribution process
+build/
+dist/
+*.egg-info/
